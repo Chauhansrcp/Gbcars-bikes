@@ -1,1 +1,1 @@
-This is my firsr repository.
+This is my first repository.
